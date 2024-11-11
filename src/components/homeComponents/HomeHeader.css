@@ -1,0 +1,16 @@
+.header-root .search-input {
+  border: 1px solid gray;
+  width: 100%;
+}
+
+.header-root .search-input:hover {
+  border: 1px solid #30A1B4;
+}
+
+.header-root input {
+  width: 100%;
+}
+
+.header-root .search-container {
+  width: 40%;
+}
